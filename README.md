@@ -1,4 +1,6 @@
-# Razorpay Test App for Python
+# Razorpay Payment App for Python Flasks
+
+
 Sample App for Razorpay Python Integration
 
 # Steps for Integration
