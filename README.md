@@ -12,7 +12,7 @@ for mac
 2. pip3 install razorpay==0.2.0
 3. python3 app.py
 
-Note : if you use this project please make sure you do this folling...
+Note : if you use this project please make sure you do this following...
 
 
 - Edit the key inside templates/app.html
